@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/joyetgeo" target="blank"><img src="https://img.shields.io/twitter/follow/joyetgeo?logo=twitter&style=for-the-badge" alt="joyetgeo" /></a> </p>
 
-- 📚 Actualy I'm a Student who love to **code**
+- 📚 Actually I'm a Student who loves to **Code**
 
 - 🌱 I’m currently learning **Android**
 
