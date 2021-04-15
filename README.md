@@ -31,6 +31,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/joyetgeorge"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joyetgeorge" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyetgeorge&show_icons=true&locale=en&layout=compact" alt="joyetgeorge" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyetgeorge&show_icons=true&locale=en&layout=compact" alt="joyetgeorge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&locale=en" alt="joyetgeorge" /></p>
