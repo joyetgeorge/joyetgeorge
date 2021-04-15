@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyetgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="joyetgeorge" /> </p>
 
-<p align="left"> <a href="https://twitter.com/joyetgeo" target="blank"><img src="https://img.shields.io/twitter/follow/joyetgeo?logo=twitter&style=for-the-badge" alt="joyetgeo" />
- ![GitHub followers](https://img.shields.io/github/followers/joyetgeorge?style=social) 
-  
-  </a> </p>
+<p align="left"> <a href="https://twitter.com/joyetgeo" target="blank"><img src="https://img.shields.io/twitter/follow/joyetgeo?logo=twitter&style=for-the-badge" alt="joyetgeo" /></a> </p>
+
+<p align="left"> <a href="https://github.com/joyetgeorge" target="blank"><img src="https://img.shields.io/github/followers/joyetgeorge?style=social" /></p>
 
 
 
