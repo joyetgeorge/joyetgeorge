@@ -33,3 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&locale=en" alt="joyetgeorge" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyetgeorge&show_icons=true&locale=en&layout=compact" alt="joyetgeorge" /></p>
