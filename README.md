@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **joyetgeorge@gmail.com**
 
-- ⚡ Fun fact **I love to draw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
