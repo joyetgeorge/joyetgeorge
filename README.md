@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joyet George</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyetgeorge&label=Profile%20views&color=0e75b6&style=flat" alt="joyetgeorge" /> </p>
-
-<p align="left"> <a href="https://twitter.com/joyetgeo" target="blank"><img src="https://img.shields.io/twitter/follow/joyetgeo?logo=twitter&style=for-the-badge" alt="joyetgeo" /></a> </p>
-
-<p align="left"> <a href="https://github.com/joyetgeorge" target="blank"><img src="https://img.shields.io/github/followers/joyetgeorge?style=social" /></a></p>
-
-
-
-- 📚 Actually I'm a Student who loves to **Code**
+- 📚 I'm currently doing
+my Bachilor's Degree in
+**Computer Applications**
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
