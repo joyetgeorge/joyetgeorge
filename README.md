@@ -10,6 +10,9 @@ my Bachilor's Degree in
 - 👨‍💻 All of my projects are available at [https://jogeo.ml/](https://jogeo.ml/)
 
 - 📫 How to reach me **joyetgeorge@gmail.com**
+- ⌨️ Experience with **Java**, **Python** and **JavaScrip**.
+
+
 
 
 <h3 align="left">Connect with me:</h3>
