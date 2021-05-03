@@ -3,7 +3,7 @@
 
 - 📚 I'm currently doing
 my Bachilor's Degree in
-**Computer Applications**
+**Computer Applications**.
 
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
