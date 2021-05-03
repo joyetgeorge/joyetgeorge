@@ -11,8 +11,6 @@
 
 - 📚 Actually I'm a Student who loves to **Code**
 
-- 🌱 I’m currently learning **Android**
-
 - 👯 I’m looking to collaborate on **OpenSource projects**
 
 - 👨‍💻 All of my projects are available at [https://jogeo.ml/](https://jogeo.ml/)
