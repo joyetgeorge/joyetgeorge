@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joyet George</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 📚 I'm currently doing
+- 📚 Doing
 my Bachilor's Degree in
 **Computer Applications**.
 
