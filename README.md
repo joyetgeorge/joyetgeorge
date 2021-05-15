@@ -8,7 +8,7 @@ my Bachilor's Degree in
 
 - 👨‍💻 All of my projects are available at [https://jogeo.ml/](https://jogeo.ml/)
 
-- 📫 How to reach me **joyetgeorge@gmail.com**
+- 📫 How to reach me? **joyetgeorge@gmail.com**
 
 - ⌨️ Experimenting with **Python** and **JavaScript**.
 
