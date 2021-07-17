@@ -10,5 +10,5 @@ my Bachilor's Degree in
 
 -  How to reach me? **joyetgeorge@gmail.com**
 
--  Experimenting with **Python** and **JavaScript**.
+-  Experimenting with **Java** and **Kotlin**.
 
