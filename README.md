@@ -2,7 +2,7 @@
 
 -  I’m looking to collaborate on **OpenSource projects**
 
--  All of my projects are available at [https://jogeo.ml/](https://jogeo.ml/)
+-  All of my projects are available at [https://jogeo.ml/](https://jogeo.me/)
 
 -  How to reach me? **joyetgeorge@gmail.com**
 
