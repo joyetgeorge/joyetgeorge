@@ -6,7 +6,7 @@
 
 -  How to reach me? **joyetgeorge@gmail.com**
 
--  Experimenting with **Java** and **Kotlin**.
+-  Experimenting with **React**.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
