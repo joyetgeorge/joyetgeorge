@@ -8,6 +8,8 @@
 
 -  Experimenting with **React**.
 
+![](https://raw.githubusercontent.com/joyetgeorge/joyetgeorge/main/github-user-contribution.svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
 
