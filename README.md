@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Joyet George</h1>
 
-I'm an aspiring full-stack developer, doing my bachelor's in computer applications. Currently, I'm focusing on React JS to build some cool stuff on the web🕸.I’m also familiar with a variety of technologies like Python, Node JS, Sass, Figma, etc, but I’m always adding new skills to my resume. I’m also eager to meet other software engineers in the area, so feel free to connect!🚀
+I'm an aspiring full-stack developer, doing my bachelor's in computer applications. Currently, I'm focusing on React JS to build some cool stuff on the web🕸. I’m also familiar with a variety of technologies like Python, Node JS, Sass, Figma, etc, but I’m always adding new skills to my resume. I’m also eager to meet other software engineers in the area, so feel free to connect!🚀
 
 Btw I use Arch🐧
 
