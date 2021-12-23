@@ -7,7 +7,7 @@ Btw I use Arch🐧
 
 
 
-![Joyet's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
+
 
 <div align="center">
   <a href="https://github.com/joyetgeorge">
