@@ -5,12 +5,9 @@ I’m also familiar with a variety of technologies like Python, Node JS, Sass, F
 
 Btw I use Arch🐧
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyetgeorge&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"/>
 
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
+![Joyet's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
 
 <div align="center">
   <a href="https://github.com/joyetgeorge">
