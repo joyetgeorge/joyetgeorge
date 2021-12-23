@@ -12,3 +12,5 @@ Btw I use Arch🐧
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=radical)
 
+<img alt="joyet's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joyetgeorge&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
+ 
