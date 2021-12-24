@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joyet George</h1>
 
-Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free to contribute ✌️ <br>
-Btw I use Arch🐧
+<p align="center">Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free to contribute ✌️ <br>
+Btw I use Arch🐧</p>
 
 
 
