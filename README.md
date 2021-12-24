@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Joyet George</h1>
 
-Here are some of the cool stuffs that I'm working on. 
-I’m also eager to meet other software engineers in the area, so feel free to connect!🚀
-
+Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free to contribute ✌️
 Btw I use Arch🐧
 
 
