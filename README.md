@@ -3,8 +3,6 @@
 <p align="center">Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free to contribute ✌️ <br>
 Btw I use Arch🐧</p>
 
-<br>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyetgeorge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <br>
