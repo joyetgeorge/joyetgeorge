@@ -62,4 +62,18 @@ Btw I use Arch🐧</p>
 
 </div>
 
+<details>
+<summary>Heading</summary>
+<ul>
+<li> <a href="https://github.com/joyetgeorge">
+    <img alt="Laravel" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  </a></li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
+</details>
+
 </div>
