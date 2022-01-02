@@ -10,7 +10,6 @@
 ░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░      Editor: Vim/VsCode
 ░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░░░░ ░░░      Working on: Flutter
 
-
 Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free
 to contribute.
 
