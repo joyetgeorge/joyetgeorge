@@ -7,7 +7,7 @@
 ░░░██╗░░██║██║░░██║░░╚██╔╝░░██╔══╝░░░░░██║░░ ░░░      DE: Gnome
 ░░░╚█████╔╝╚█████╔╝░░░██║░░░███████╗░░░██║░░░░░░      WM: i3
 ░░░░╚════╝░░╚════╝░░░░╚═╝░░░╚══════╝░░░╚═╝░░░░░░      Shell:  Zsh
-░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░      Editor: Vim/VsCode
+░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░      Editor: Vim/VSCode
 ░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░░░░ ░░░      Working on: Flutter
 
 Here are some of the projects that I'm working on. If you want to add more spice to this, feel free
