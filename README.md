@@ -1,3 +1,15 @@
+```console
+░░░░░░░░░░░ ░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░          @joyetgeorge
+░ ░░░██╗░█████╗░██╗░░░██╗███████╗████████╗          ------------
+░░░░░██║██╔══██╗╚██╗░██╔╝██╔════╝╚══██╔══╝          Uptime: 20 years
+░░░░░██║██║░░██║░╚████╔╝░█████╗░░░░░██║░░░          Programming Languages:  [{Python}, {Dart}, {Java}]
+██╗░░██║██║░░██║░░╚██╔╝░░██╔══╝░░░░░██║░░░          OS: Arch Linux
+╚█████╔╝╚█████╔╝░░░██║░░░███████╗░░░██║░░░          DE: Gnome
+░╚════╝░░╚════╝░░░░╚═╝░░░╚══════╝░░░╚═╝░░░          WM: i3wm  
+░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░          Shell:  Zsh
+░░░░ ░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░░░░░░░░░          Editor: Vim/VsCode
+
+```
 <h1 align="center">Hi, I'm Joyet George</h1>
 
 <p align="center">Here are some of the cool stuffs that I'm working on. If you want to add more spice to this, feel free to contribute ✌️ <br>
