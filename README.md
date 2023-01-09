@@ -2,7 +2,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░   @joyetgeorge 
 ░░░░░░░░░░░░░░░░░░░░░░░░   ---------------
 ░░░░░░░░██╗░█████╗░░░░░░   Uptime: 20 years 
-░░░░░░░░██║██╔══██╗░░░░░   Languages&Tools:  ['Python', 'Flutter', 'Linux']
+░░░░░░░░██║██╔══██╗░░░░░   Languages&Tools:  ['JavaScript','Python', 'Flutter', 'Linux']
 ░░░░░░░░██║██║░░██║░░░░░   OS: Arch Linux x86_64
 ░░░██╗░░██║██║░░██║░░░░░   DE: Xfce 4.16
 ░░░╚█████╔╝╚█████╔╝░░░░░   WM: i3
