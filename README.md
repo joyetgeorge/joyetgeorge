@@ -15,6 +15,5 @@ to contribute.
 
 ```
 <p> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/joyetgeorge/count.svg" />
 </p>
