@@ -14,3 +14,7 @@ Here are some of the projects that I'm working on. If you want to add some spice
 to contribute. 
 
 ```
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/joyetgeorge/count.svg" />
+</p>
