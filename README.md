@@ -23,6 +23,8 @@ to contribute.
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </p> -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyetgeorge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://www.linkedin.com/in/joyetgeorge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/joyetgeorge/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/joyet-george" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
